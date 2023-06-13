@@ -15,7 +15,7 @@ DESCRIPTION:
 Initial ver memory matrix logic of intel perl policies feature
 formation academic working offices to develop script server 
 memory intel to make snippet code script language perl 5 
-
+formation academic working office. 
 
 
 USAGE:
